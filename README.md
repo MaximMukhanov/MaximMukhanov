@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 My name is Maxim and I'am a JavaScript frontend developer.
 I'am 22 y.o. from Russia with a passion for programming! 🤔
  
