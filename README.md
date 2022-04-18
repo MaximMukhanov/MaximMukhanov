@@ -1,4 +1,18 @@
 ### Hi there 👋
+My name is Maxim and I'am a JavaScript frontend developer.
+I'am 22 y.o. from Russia with a passion for programming! 🤔
+ 
+I'am currently learning React Native and TypeScript🌱
+
+## My stack is 🔭 
+**React, Redux, Node.js, Express.js, PostgreSQL, MongoDB**
+
+## How to reach me 📫
+Telegram: https://t.me/MaximMukhanov
+GMail: maximmukhanov.job@gmail.com
+
+
+
 
 <!--
 **MaximMukhanov/MaximMukhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
