@@ -5,7 +5,7 @@ I'am 22 y.o. from Russia with a passion for programming! 🤔
 I'am currently learning React Native and TypeScript🌱
 
 ## My stack is 🔭 
-**React, Redux, Node.js, Express.js, PostgreSQL, MongoDB**
+**React, Redux, Redux-Thunk, Redux-Saga, Node.js, Express.js, PostgreSQL, MongoDB**
 
 ## How to reach me 📫
 Telegram: https://t.me/MaximMukhanov
