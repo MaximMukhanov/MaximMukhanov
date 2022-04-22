@@ -2,7 +2,7 @@
 My name is Maxim and I'am a JavaScript frontend developer.
 I'am 22 y.o. from Russia with a passion for programming! 🤔
  
-I'am currently learning React Native and TypeScript🌱
+I'am currently learning React Native and Vue🌱
 
 ## My stack is 🔭 
 **React, Redux, Redux-Thunk, Redux-Saga, Node.js, Express.js, PostgreSQL, MongoDB**
