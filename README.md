@@ -9,7 +9,7 @@
 <h2 align="center">My projects 👨‍💻</h2>
 
 <p align="center">
-  <samp>Check out my latest project: <a href="https://github.com/MaximMukhanov/ElbrusSmartChain" target="_blank">Bitfröst NFT Marketplace</a>
+  <samp>Check out my latest project: <a href="https://github.com/MaximMukhanov/BifrostSmartChain" target="_blank">Bitfröst NFT Marketplace</a>
   </samp>
   <br> <br>
 </p>
