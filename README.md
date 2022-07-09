@@ -52,6 +52,7 @@
   ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
