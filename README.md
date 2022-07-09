@@ -34,6 +34,7 @@
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
   ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
@@ -44,6 +45,7 @@
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
@@ -53,6 +55,12 @@
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
 
