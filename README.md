@@ -68,12 +68,6 @@
 
   <br><br>
 
-  <h2> 📈 GitHub Activity Graph: </h2>
-
-  ![MaximMukhanov's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MaximMukhanov&hide_border=true&theme=redical)
-
-  <br><br>
-
   ![MaximMukhanov's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximMukhanov&theme=radical)
 
   <br><br>
