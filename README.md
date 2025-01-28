@@ -5,16 +5,6 @@
   <br> <br>
 </p>
 
-
-<h2 align="center">My projects 👨‍💻</h2>
-
-<p align="center">
-  <samp>Check out my latest project: <a href="https://github.com/MaximMukhanov/BifrostSmartChain" target="_blank">Bitfröst NFT Marketplace</a>
-  </samp>
-  <br> <br>
-</p>
-
-
 <h2 align="center">💬 Reach me on</h2>
 
 <br><br>
