@@ -1,6 +1,6 @@
-<h2 align="center">Hi there!🤘</h2>
+<h2 align="center">Hi there!</h2>
 <p align="center">
-  <samp>My name is Maxim, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
+  <samp>My name is Maxim, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 
   </samp>
   <br> <br>
 </p>
