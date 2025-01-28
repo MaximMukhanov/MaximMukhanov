@@ -53,26 +53,3 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
-
-<div align="center">
-
-  <br><br>
-
-  ![MaximMukhanov's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximMukhanov&theme=radical)
-
-  <br><br>
-
-  ![MaximMukhanov's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MaximMukhanov&theme=radical)
-
-  <br><br>
-
-  ![MaximMukhanov's github
-  stats](https://github-readme-stats.vercel.app/api?username=MaximMukhanov&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br><br>
-
-  <br> <br>
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=MaximMukhanov)
-
-</div>
